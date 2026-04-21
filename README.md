@@ -31,7 +31,7 @@ Para garantizar el rendimiento en la plataforma SAS Viya y la integridad de los 
 
 ### Resultados del Procesamiento
 * **Volumen inicial procesado:** 327.009 registros.
-* **Dataset final optimizado:** 88.014 registros íntegros (17.8 MB) listos para ingestar.
+* **Dataset final optimizado:** 88.014 registros íntegros.
 * **Nivel de completitud:** Tasa de recuperación >96% en las variables de forma (*shape*) y duración (*duration*).
 * **Micro-análisis local:** 20 casos argentinos de alta pureza aislados y confirmados para el estudio de caso.
 
